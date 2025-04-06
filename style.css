@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+    font-family: Montserrat;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+    width: 95%;
+    padding-left: 1%
+}
+#img2{
+    width: 45%
+}
+#img3{
+    width: 45%;
+}
+.navbar ul{
+    text-align: left;
+    list-style-type: none;
+    background-color: brown;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: wheat;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: darkred;
+}
+.navbar li{
+    float: left;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+td{
+    cursor: pointer;
+}
+th, td{
+    padding: 10px;
+    min-width: 25%;
+    border-bottom: 1px solid rgb(177, 175, 175);
+}
+tr:hover{
+    background-color: rgb(226, 125, 125);
+    color: wheat;
+}
+th{
+    background-color: brown;
+    color: wheat;
+}
+td a{
+    text-decoration: none;
+    color: brown
+}
+td a:visited{
+    color: brown;
+}
+footer{
+    text-align: center;
+    background-color: brown;
+    color: wheat;
+    display: block;
+    padding: 1px
+}
+
+
+
